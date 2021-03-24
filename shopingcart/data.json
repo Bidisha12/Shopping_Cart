@@ -1,0 +1,24 @@
+{
+    "music": [
+        {
+            "name": "Album 1",
+            "image":"Images/Album_1.png",
+            "price": "$12.99"
+        },
+        {
+            "name": "Album 2",  
+            "image": "Images/Album_2.png",
+            "price": "$14.99"
+        },
+        {
+            "name": "Album 3",
+            "image":"Images/Album3.png",
+            "price": "$9.90"
+        },
+        {
+            "name": "Album 4",
+            "image": "Images/Album4.png",
+            "price": "$20.80"
+        }
+    ]
+ }
